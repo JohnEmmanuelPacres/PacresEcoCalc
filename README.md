@@ -5,5 +5,5 @@
 2. Unzip the Pacres EcoCalc_Standalone folder.
 3. Choose which CPU architecture your operating system has (x64 for 64-bit and x86 for 32-bit)
 4. Scroll down until you find the exe file with this icon: <br>
-   ![logo-9](https://github.com/user-attachments/assets/fa4d134a-31bc-41d9-9ff1-5647052d8768)
+   ![logo-9](https://github.com/user-attachments/assets/6ccb99aa-e5a3-4c5e-babb-2ddaa94f1756)
 5. Run the program to calculate and analyze your carbon footprint.
