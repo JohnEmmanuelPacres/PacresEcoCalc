@@ -1,0 +1,25 @@
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\Pacres EcoCalc.exe
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\Pacres EcoCalc.deps.json
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\Pacres EcoCalc.runtimeconfig.json
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\Pacres EcoCalc.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\Pacres EcoCalc.pdb
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\Spectre.Console.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\obj\Debug\net8.0\Pacres EcoCalc.csproj.AssemblyReference.cache
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\obj\Debug\net8.0\Pacres EcoCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\obj\Debug\net8.0\Pacres EcoCalc.AssemblyInfoInputs.cache
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\obj\Debug\net8.0\Pacres EcoCalc.AssemblyInfo.cs
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\obj\Debug\net8.0\Pacres EcoCalc.csproj.CoreCompileInputs.cache
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\obj\Debug\net8.0\Pacres E.739B96E3.Up2Date
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\obj\Debug\net8.0\Pacres EcoCalc.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\obj\Debug\net8.0\refint\Pacres EcoCalc.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\obj\Debug\net8.0\Pacres EcoCalc.pdb
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\obj\Debug\net8.0\Pacres EcoCalc.genruntimeconfig.cache
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\obj\Debug\net8.0\ref\Pacres EcoCalc.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\Spectre.Console.ImageSharp.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\NAudio.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\NAudio.Asio.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\NAudio.Core.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\NAudio.Midi.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\src\PACRES_CPE 261_Final Project\Pacres EcoCalc\bin\Debug\net8.0\NAudio.WinMM.dll
